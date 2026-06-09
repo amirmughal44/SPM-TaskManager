@@ -1,0 +1,86 @@
+﻿# Workflow Checkpoint Evidence
+
+- Checkpoint 001: Repository name SPM-TaskManager verified
+- Checkpoint 002: README overview checked
+- Checkpoint 003: CONTRIBUTING workflow checked
+- Checkpoint 004: .gitignore coverage checked
+- Checkpoint 005: main branch preserved as stable
+- Checkpoint 006: dev branch created for integration
+- Checkpoint 007: feature-task-core branch recorded
+- Checkpoint 008: feature-cli branch recorded
+- Checkpoint 009: feature-lab-docs branch recorded
+- Checkpoint 010: core task model reviewed
+- Checkpoint 011: JSON persistence reviewed
+- Checkpoint 012: task creation validation reviewed
+- Checkpoint 013: priority validation reviewed
+- Checkpoint 014: status validation reviewed
+- Checkpoint 015: due date parsing reviewed
+- Checkpoint 016: search workflow reviewed
+- Checkpoint 017: overdue task workflow reviewed
+- Checkpoint 018: summary workflow reviewed
+- Checkpoint 019: unit test for persistence reviewed
+- Checkpoint 020: unit test for completion reviewed
+- Checkpoint 021: unit test for search reviewed
+- Checkpoint 022: unit test for overdue behavior reviewed
+- Checkpoint 023: unit test for summaries reviewed
+- Checkpoint 024: CLI add command reviewed
+- Checkpoint 025: CLI list command reviewed
+- Checkpoint 026: CLI update command reviewed
+- Checkpoint 027: CLI status command reviewed
+- Checkpoint 028: CLI delete command reviewed
+- Checkpoint 029: CLI search command reviewed
+- Checkpoint 030: CLI summary command reviewed
+- Checkpoint 031: CLI overdue command reviewed
+- Checkpoint 032: README quick start reviewed
+- Checkpoint 033: issue one bug entry checked
+- Checkpoint 034: issue two feature entry checked
+- Checkpoint 035: issue three enhancement entry checked
+- Checkpoint 036: issue four bug entry checked
+- Checkpoint 037: issue five feature entry checked
+- Checkpoint 038: issue labels checked
+- Checkpoint 039: issue assignments checked
+- Checkpoint 040: PR one evidence checked
+- Checkpoint 041: PR two evidence checked
+- Checkpoint 042: PR three evidence checked
+- Checkpoint 043: review comments checked
+- Checkpoint 044: project board To Do column checked
+- Checkpoint 045: project board In Progress column checked
+- Checkpoint 046: project board Done column checked
+- Checkpoint 047: project board issue links checked
+- Checkpoint 048: conflict branch A checked
+- Checkpoint 049: conflict branch B checked
+- Checkpoint 050: conflict file checked
+- Checkpoint 051: manual conflict resolution checked
+- Checkpoint 052: conflict resolution commit checked
+- Checkpoint 053: release notes summary checked
+- Checkpoint 054: release notes feature list checked
+- Checkpoint 055: release notes test command checked
+- Checkpoint 056: semantic version name checked
+- Checkpoint 057: team contribution table checked
+- Checkpoint 058: shortlog command documented
+- Checkpoint 059: repository setup screenshot checked
+- Checkpoint 060: branching screenshot checked
+- Checkpoint 061: issue screenshot checked
+- Checkpoint 062: pull request screenshot checked
+- Checkpoint 063: conflict screenshot checked
+- Checkpoint 064: project board screenshot checked
+- Checkpoint 065: release screenshot checked
+- Checkpoint 066: collaboration screenshot checked
+- Checkpoint 067: deliverables table checked
+- Checkpoint 068: task completion map checked
+- Checkpoint 069: local GitHub repository URL placeholder checked
+- Checkpoint 070: source folder organization checked
+- Checkpoint 071: test folder organization checked
+- Checkpoint 072: docs folder organization checked
+- Checkpoint 073: scripts folder organization checked
+- Checkpoint 074: screenshots folder organization checked
+- Checkpoint 075: clean working tree checkpoint planned
+- Checkpoint 076: main merge readiness checked
+- Checkpoint 077: dev integration readiness checked
+- Checkpoint 078: release tag readiness checked
+- Checkpoint 079: submission checklist reviewed
+- Checkpoint 080: commit author rotation checked
+- Checkpoint 081: commit message quality checked
+- Checkpoint 082: 100 commit requirement progress checked
+- Checkpoint 083: final test command planned
+- Checkpoint 084: final branch list planned
