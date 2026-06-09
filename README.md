@@ -30,8 +30,9 @@ SPM-TaskManager/
 ## Quick Start
 
 ```powershell
-python -m task_manager.cli --help
-python -m unittest discover
+python -m src.task_manager.cli --help
+python -m src.task_manager.cli add "Create project board" --owner "Amir Mughal" --priority high
+python -m unittest discover -s tests
 ```
 
 ## Lab Status

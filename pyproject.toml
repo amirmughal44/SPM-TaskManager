@@ -1,0 +1,14 @@
+[project]
+name = "spm-task-manager"
+version = "1.0.0"
+description = "Command-line task manager for the SPM GitHub workflow lab."
+requires-python = ">=3.11"
+
+[project.scripts]
+spm-task = "task_manager.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
