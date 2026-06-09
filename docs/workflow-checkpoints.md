@@ -72,3 +72,4 @@
 - Checkpoint 070: source folder organization checked
 - Checkpoint 071: test folder organization checked
 - Checkpoint 072: docs folder organization checked
+- Checkpoint 073: scripts folder organization checked
