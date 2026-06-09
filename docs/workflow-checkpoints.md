@@ -22,3 +22,4 @@
 - Checkpoint 020: unit test for completion reviewed
 - Checkpoint 021: unit test for search reviewed
 - Checkpoint 022: unit test for overdue behavior reviewed
+- Checkpoint 023: unit test for summaries reviewed
