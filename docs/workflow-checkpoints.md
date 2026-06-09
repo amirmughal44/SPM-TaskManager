@@ -14,3 +14,4 @@
 - Checkpoint 012: task creation validation reviewed
 - Checkpoint 013: priority validation reviewed
 - Checkpoint 014: status validation reviewed
+- Checkpoint 015: due date parsing reviewed
