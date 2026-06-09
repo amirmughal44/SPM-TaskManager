@@ -33,3 +33,4 @@
 - Checkpoint 031: CLI overdue command reviewed
 - Checkpoint 032: README quick start reviewed
 - Checkpoint 033: issue one bug entry checked
+- Checkpoint 034: issue two feature entry checked
