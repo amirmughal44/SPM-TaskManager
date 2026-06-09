@@ -78,3 +78,4 @@
 - Checkpoint 076: main merge readiness checked
 - Checkpoint 077: dev integration readiness checked
 - Checkpoint 078: release tag readiness checked
+- Checkpoint 079: submission checklist reviewed
