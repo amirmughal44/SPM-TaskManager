@@ -26,3 +26,4 @@
 - Checkpoint 024: CLI add command reviewed
 - Checkpoint 025: CLI list command reviewed
 - Checkpoint 026: CLI update command reviewed
+- Checkpoint 027: CLI status command reviewed
