@@ -83,3 +83,4 @@
 - Checkpoint 081: commit message quality checked
 - Checkpoint 082: 100 commit requirement progress checked
 - Checkpoint 083: final test command planned
+- Checkpoint 084: final branch list planned
