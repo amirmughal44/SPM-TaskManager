@@ -21,3 +21,4 @@
 - Checkpoint 019: unit test for persistence reviewed
 - Checkpoint 020: unit test for completion reviewed
 - Checkpoint 021: unit test for search reviewed
+- Checkpoint 022: unit test for overdue behavior reviewed
