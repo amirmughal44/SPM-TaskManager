@@ -51,3 +51,4 @@
 - Checkpoint 049: conflict branch B checked
 - Checkpoint 050: conflict file checked
 - Checkpoint 051: manual conflict resolution checked
+- Checkpoint 052: conflict resolution commit checked
