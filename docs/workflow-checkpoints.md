@@ -35,3 +35,4 @@
 - Checkpoint 033: issue one bug entry checked
 - Checkpoint 034: issue two feature entry checked
 - Checkpoint 035: issue three enhancement entry checked
+- Checkpoint 036: issue four bug entry checked
