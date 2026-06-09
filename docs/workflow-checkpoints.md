@@ -77,3 +77,4 @@
 - Checkpoint 075: clean working tree checkpoint planned
 - Checkpoint 076: main merge readiness checked
 - Checkpoint 077: dev integration readiness checked
+- Checkpoint 078: release tag readiness checked
