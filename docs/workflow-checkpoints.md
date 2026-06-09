@@ -47,3 +47,4 @@
 - Checkpoint 045: project board In Progress column checked
 - Checkpoint 046: project board Done column checked
 - Checkpoint 047: project board issue links checked
+- Checkpoint 048: conflict branch A checked
