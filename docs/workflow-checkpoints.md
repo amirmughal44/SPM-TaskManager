@@ -29,3 +29,4 @@
 - Checkpoint 027: CLI status command reviewed
 - Checkpoint 028: CLI delete command reviewed
 - Checkpoint 029: CLI search command reviewed
+- Checkpoint 030: CLI summary command reviewed
