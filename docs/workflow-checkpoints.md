@@ -64,3 +64,4 @@
 - Checkpoint 062: pull request screenshot checked
 - Checkpoint 063: conflict screenshot checked
 - Checkpoint 064: project board screenshot checked
+- Checkpoint 065: release screenshot checked
