@@ -42,3 +42,4 @@
 - Checkpoint 040: PR one evidence checked
 - Checkpoint 041: PR two evidence checked
 - Checkpoint 042: PR three evidence checked
+- Checkpoint 043: review comments checked
