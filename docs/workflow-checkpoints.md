@@ -39,3 +39,4 @@
 - Checkpoint 037: issue five feature entry checked
 - Checkpoint 038: issue labels checked
 - Checkpoint 039: issue assignments checked
+- Checkpoint 040: PR one evidence checked
