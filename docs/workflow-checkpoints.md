@@ -48,3 +48,4 @@
 - Checkpoint 046: project board Done column checked
 - Checkpoint 047: project board issue links checked
 - Checkpoint 048: conflict branch A checked
+- Checkpoint 049: conflict branch B checked
