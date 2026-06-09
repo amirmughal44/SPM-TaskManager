@@ -2,7 +2,7 @@
 
 | Required Deliverable | Local Evidence |
 | --- | --- |
-| GitHub repository link | `https://github.com/amirmughal44/SPM-TaskManager` after pushing |
+| GitHub repository link | `https://github.com/amirmughal44/SPM-TaskManager` after GitHub repo creation and push |
 | Pull Request links | `docs/pull-requests.md` |
 | List of created issues | `docs/issues.md` |
 | Screenshot of Project Board | `screenshots/06-project-board.png` |
@@ -22,3 +22,7 @@
 | Task 6: Project board | `docs/project-board.md` |
 | Task 7: Release and version | `docs/release-notes-v1.0.0.md` and tag `v1.0.0` |
 | Task 8: Repository collaboration | `docs/team.md` and `git shortlog -sne --all` |
+
+## Submission Package
+
+Use `docs/FINAL_SUBMISSION.md` as the main submission document. It links the evidence files, screenshots, version tag, and verification commands in one place.
