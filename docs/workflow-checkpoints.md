@@ -24,3 +24,4 @@
 - Checkpoint 022: unit test for overdue behavior reviewed
 - Checkpoint 023: unit test for summaries reviewed
 - Checkpoint 024: CLI add command reviewed
+- Checkpoint 025: CLI list command reviewed
