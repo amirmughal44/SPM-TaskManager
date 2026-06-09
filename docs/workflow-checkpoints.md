@@ -45,3 +45,4 @@
 - Checkpoint 043: review comments checked
 - Checkpoint 044: project board To Do column checked
 - Checkpoint 045: project board In Progress column checked
+- Checkpoint 046: project board Done column checked
