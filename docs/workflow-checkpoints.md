@@ -75,3 +75,4 @@
 - Checkpoint 073: scripts folder organization checked
 - Checkpoint 074: screenshots folder organization checked
 - Checkpoint 075: clean working tree checkpoint planned
+- Checkpoint 076: main merge readiness checked
