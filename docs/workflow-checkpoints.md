@@ -30,3 +30,4 @@
 - Checkpoint 028: CLI delete command reviewed
 - Checkpoint 029: CLI search command reviewed
 - Checkpoint 030: CLI summary command reviewed
+- Checkpoint 031: CLI overdue command reviewed
