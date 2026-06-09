@@ -9,3 +9,4 @@
 - Checkpoint 007: feature-task-core branch recorded
 - Checkpoint 008: feature-cli branch recorded
 - Checkpoint 009: feature-lab-docs branch recorded
+- Checkpoint 010: core task model reviewed
