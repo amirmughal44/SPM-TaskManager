@@ -61,3 +61,4 @@
 - Checkpoint 059: repository setup screenshot checked
 - Checkpoint 060: branching screenshot checked
 - Checkpoint 061: issue screenshot checked
+- Checkpoint 062: pull request screenshot checked
