@@ -8,3 +8,4 @@
 - Checkpoint 006: dev branch created for integration
 - Checkpoint 007: feature-task-core branch recorded
 - Checkpoint 008: feature-cli branch recorded
+- Checkpoint 009: feature-lab-docs branch recorded
