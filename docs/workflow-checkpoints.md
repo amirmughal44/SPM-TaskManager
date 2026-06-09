@@ -18,3 +18,4 @@
 - Checkpoint 016: search workflow reviewed
 - Checkpoint 017: overdue task workflow reviewed
 - Checkpoint 018: summary workflow reviewed
+- Checkpoint 019: unit test for persistence reviewed
