@@ -1,5 +1,5 @@
 # Conflict Resolution Target
 
-Release summary: Branch A recommends releasing after task validation and CLI testing are complete.
+Release summary: Release after task validation, CLI testing, documentation, board evidence, and review notes are complete.
 
 Conflict exercise owner: Amir Mughal
