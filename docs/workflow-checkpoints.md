@@ -55,3 +55,4 @@
 - Checkpoint 053: release notes summary checked
 - Checkpoint 054: release notes feature list checked
 - Checkpoint 055: release notes test command checked
+- Checkpoint 056: semantic version name checked
