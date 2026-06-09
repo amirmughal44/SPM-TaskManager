@@ -4,3 +4,4 @@
 - Checkpoint 002: README overview checked
 - Checkpoint 003: CONTRIBUTING workflow checked
 - Checkpoint 004: .gitignore coverage checked
+- Checkpoint 005: main branch preserved as stable
