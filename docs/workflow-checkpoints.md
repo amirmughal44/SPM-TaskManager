@@ -46,3 +46,4 @@
 - Checkpoint 044: project board To Do column checked
 - Checkpoint 045: project board In Progress column checked
 - Checkpoint 046: project board Done column checked
+- Checkpoint 047: project board issue links checked
