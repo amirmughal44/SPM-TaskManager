@@ -59,3 +59,4 @@
 - Checkpoint 057: team contribution table checked
 - Checkpoint 058: shortlog command documented
 - Checkpoint 059: repository setup screenshot checked
+- Checkpoint 060: branching screenshot checked
