@@ -53,3 +53,4 @@
 - Checkpoint 051: manual conflict resolution checked
 - Checkpoint 052: conflict resolution commit checked
 - Checkpoint 053: release notes summary checked
+- Checkpoint 054: release notes feature list checked
