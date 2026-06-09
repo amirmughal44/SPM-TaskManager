@@ -38,3 +38,4 @@
 - Checkpoint 036: issue four bug entry checked
 - Checkpoint 037: issue five feature entry checked
 - Checkpoint 038: issue labels checked
+- Checkpoint 039: issue assignments checked
