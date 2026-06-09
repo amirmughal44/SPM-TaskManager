@@ -40,3 +40,4 @@
 - Checkpoint 038: issue labels checked
 - Checkpoint 039: issue assignments checked
 - Checkpoint 040: PR one evidence checked
+- Checkpoint 041: PR two evidence checked
