@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 from dataclasses import asdict, dataclass
-from datetime import date, datetime
+from datetime import UTC, date, datetime
 import json
 from pathlib import Path
 from typing import Iterable
@@ -51,7 +51,7 @@ class Task:
             owner=owner.strip() or "Unassigned",
             priority=priority,
             due_date=due_date,
-            created_at=datetime.utcnow().isoformat(timespec="seconds") + "Z",
+            created_at=_utc_timestamp(),
         )
 
     @classmethod
@@ -145,7 +145,7 @@ class TaskManager:
         _validate_status(status)
         task = self.get_task(task_id)
         task.status = status
-        task.completed_at = datetime.utcnow().isoformat(timespec="seconds") + "Z" if status == "done" else None
+        task.completed_at = _utc_timestamp() if status == "done" else None
         self.save()
         return task
 
@@ -188,3 +188,7 @@ def _validate_status(status: str) -> None:
 
 def _parse_date(value: str) -> date:
     return datetime.strptime(value, "%Y-%m-%d").date()
+
+
+def _utc_timestamp() -> str:
+    return datetime.now(UTC).isoformat(timespec="seconds").replace("+00:00", "Z")
