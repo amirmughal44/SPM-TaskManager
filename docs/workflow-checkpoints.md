@@ -43,3 +43,4 @@
 - Checkpoint 041: PR two evidence checked
 - Checkpoint 042: PR three evidence checked
 - Checkpoint 043: review comments checked
+- Checkpoint 044: project board To Do column checked
