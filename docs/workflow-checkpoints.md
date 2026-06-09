@@ -25,3 +25,4 @@
 - Checkpoint 023: unit test for summaries reviewed
 - Checkpoint 024: CLI add command reviewed
 - Checkpoint 025: CLI list command reviewed
+- Checkpoint 026: CLI update command reviewed
