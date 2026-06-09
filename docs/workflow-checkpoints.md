@@ -60,3 +60,4 @@
 - Checkpoint 058: shortlog command documented
 - Checkpoint 059: repository setup screenshot checked
 - Checkpoint 060: branching screenshot checked
+- Checkpoint 061: issue screenshot checked
