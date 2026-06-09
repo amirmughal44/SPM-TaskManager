@@ -13,3 +13,4 @@
 - Checkpoint 011: JSON persistence reviewed
 - Checkpoint 012: task creation validation reviewed
 - Checkpoint 013: priority validation reviewed
+- Checkpoint 014: status validation reviewed
