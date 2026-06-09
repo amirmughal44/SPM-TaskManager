@@ -32,3 +32,4 @@
 - Checkpoint 030: CLI summary command reviewed
 - Checkpoint 031: CLI overdue command reviewed
 - Checkpoint 032: README quick start reviewed
+- Checkpoint 033: issue one bug entry checked
