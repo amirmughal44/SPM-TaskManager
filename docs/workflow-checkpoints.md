@@ -69,3 +69,4 @@
 - Checkpoint 067: deliverables table checked
 - Checkpoint 068: task completion map checked
 - Checkpoint 069: local GitHub repository URL placeholder checked
+- Checkpoint 070: source folder organization checked
