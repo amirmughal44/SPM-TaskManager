@@ -70,3 +70,4 @@
 - Checkpoint 068: task completion map checked
 - Checkpoint 069: local GitHub repository URL placeholder checked
 - Checkpoint 070: source folder organization checked
+- Checkpoint 071: test folder organization checked
