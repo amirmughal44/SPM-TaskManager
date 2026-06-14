@@ -1,5 +1,10 @@
 # SPM Task Manager
 
+[![Python tests](https://github.com/amirmughal44/SPM-TaskManager/actions/workflows/tests.yml/badge.svg)](https://github.com/amirmughal44/SPM-TaskManager/actions/workflows/tests.yml)
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Release](https://img.shields.io/github/v/release/amirmughal44/SPM-TaskManager?label=release)](https://github.com/amirmughal44/SPM-TaskManager/releases)
+[![Last commit](https://img.shields.io/github/last-commit/amirmughal44/SPM-TaskManager)](https://github.com/amirmughal44/SPM-TaskManager/commits/main/)
+
 SPM Task Manager is a Python command-line task management application created for **Lab 2: Advanced GitHub Workflow & Collaboration** in Software Project Management.
 
 The repository demonstrates a complete collaborative workflow: repository setup, branching strategy, issue tracking, pull requests, code review, merge conflict resolution, project board management, release tagging, screenshots, and contribution history.
